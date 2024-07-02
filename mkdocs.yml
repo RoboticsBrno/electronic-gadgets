@@ -1,0 +1,122 @@
+docs_dir: gadgets
+site_name: Robotika Brno Gadgets
+site_url: https://gadgets.robotikabrno.cz
+site_description: >-
+  Guides and schematics for our gadgets.
+
+repo_name: RoboticsBrno/electronic-gadgets
+repo_url: https://github.com/RoboticsBrno/electronic-gadgets
+edit_uri: blob/main/docs/
+
+# Copyright
+copyright: Copyright © RoboticsBrno
+use_directory_urls: True
+
+theme:
+  name: material
+  language: cs
+  logo: assets/logo.svg
+  favicon: assets/logo.svg
+  features:
+    - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+    - content.code.copy
+    - content.code.annotate
+  custom_dir: overrides
+
+  icon:
+    repo: fontawesome/brands/github
+
+  palette:
+    - scheme: slate
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Přepnout na světý režim
+    - scheme: default
+      primary: teal
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Přepnout na tmavý režim
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.keys
+  - admonition
+  - pymdownx.details
+  - pymdownx.keys
+  - attr_list
+  - pymdownx.tabbed
+  - meta
+  - pymdownx.snippets:
+      url_download: True
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - toc:
+      permalink: "¤"
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+  - open-in-new-tab
+  - glightbox:
+      auto_caption: true
+  - resize-images:
+      source-dir: assets-large
+      target-dir: assets
+      enable_cache: True
+      size: [1000, 800]
+      extensions: [".jpg", ".jpeg", ".png", ".gif"]
+
+  - auto-refresh-build-pages:
+      update_message: "Návod byl aktualizován, chcete načíst novou verzi?"
+      yes_button_text: "Ano"
+      no_button_text: "Ne"
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/RoboticsBrno
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/RobotikaBrno
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/robotarna.helceletka
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@robotikabrno-robotarnaasps2392
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/robotarna.helceletka
+#   analytics:
+#     provider: google
+#     property: ASD
+
+extra_css:
+  - assets/style.css
+
+nav:
+  - Domů:
+      - index.md
+  - RoboSvit:
+      - roboSvit/README.md
+      - roboSvit/manual.md
+  - RoboSvit:
+      - roboCamp/README.md
+      - roboCamp/manual.md
+  - Hrací kostka:
+      - electronicDie/README.md
+      - electronicDie/manual.md
+  - Pájecí výzva:
+      - https://smd-challenge.robotikabrno.cz/
+  - Electron:
+      - electron/README.md
+      - electron/electron-lesson-1.md
+      - electron/electron-lesson-2.md
+      - electron/electron-lesson-3.md
+  # - Náš tým:
+  #     - team/index.md
