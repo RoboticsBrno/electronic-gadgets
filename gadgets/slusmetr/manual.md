@@ -4,13 +4,13 @@
 - Držák na baterku
 - LED červená
 - LED zelená
-- Odpor 4,7K Ohm
-- Odpor 100 Ohm
+- Odpor 4,7K Ω
+- Odpor 100 Ω
 - Drátek max. 10 cm
 
 ## Návod na složení
 ![Šlusmetr schéma](assets/navod1.jpg)
-1. Připajíme 100Ohm odpor z druhé strany desky (s nápisem ÚDIF), do spodních dírek. **POZOR** na orientaci desky, musí být stejně jako na obrázku. Zastřihneme nožičky. <br>
+1. Připájíme 100Ω odpor z druhé strany desky (s nápisem ÚDIF), do spodních dírek. **POZOR** na orientaci desky, musí být stejně jako na obrázku. Zastřihneme nožičky. <br>
 <hr>
 <br>
 
@@ -20,7 +20,7 @@
 <br>
 
 ![Šlusmetr schéma](assets/navod3.jpg)
-3. Připájíme 4.7KOhm odpor na horní stranu do horních dírek. Zastřihneme nožičky. <br>
+3. Připájíme 4.7KΩ odpor na horní stranu do horních dírek. Zastřihneme nožičky. <br>
 <hr>
 <br>
 
