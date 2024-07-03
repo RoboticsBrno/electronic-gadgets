@@ -8,7 +8,7 @@ repo_name: RoboticsBrno/electronic-gadgets
 repo_url: https://github.com/RoboticsBrno/electronic-gadgets
 edit_uri: blob/main/docs/
 
-# Copyright
+dev_addr: "127.0.0.1:8002"
 copyright: Copyright © RoboticsBrno
 use_directory_urls: True
 
