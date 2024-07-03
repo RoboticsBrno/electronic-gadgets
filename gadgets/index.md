@@ -3,8 +3,22 @@
 List of our gadgets...
 
 {% set imgNameList = generateTemplateImgNameList() %}
+{% set printEnd = false %}
+<div markdown class="gadgets-display">
 
-{% for imgPath, name, path in imgNameList %}
+{% for batch in imgNameList|batch(3) %}
+<div markdown class="container">
+{% for imgPath, name, path in batch %}
+<div markdown class="col-1-3 gadget">
+<a href="{{ path }}" class="gadget-link">
+
 ![Gadget Image]({{ imgPath }})
 [{{ name }}]({{ path }})
+
+</a>
+</div>
 {% endfor %}
+</div>
+{% endfor %}
+
+</div>
