@@ -14,71 +14,56 @@
 - 1x držák baterie
 
 ## Návod na složení
-![RoboSvit schéma](assets/Electronic_dice-01.jpg)<br>
-1. Připravíme si desku pro hru Simon Says
+
+![Simon Says 01](assets/SimonSays-00.jpg)<br>
+0. Vezmeme desku plošných spojů
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-02.jpg)<br>
-2. Osadíme rezistor o hodnotě 680 Ohmna místo R1
+![Simon Says 01](assets/SimonSays-01.jpg)<br>
+1. Osadíme rezistor o hodnotě **680Ω** na místo R1
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-03.jpg)<br>
-3. Osadíme rezistor o hodnotě 220 Ohmna místo R2
+![Simon Says 02](assets/SimonSays-02.jpg)<br>
+2. Osadíme rezistor o hodnotě **220Ω** na místo R2
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-04.jpg)<br>
-4. Osadíme rezistor o hodnotě 330 Ohmna místo R3
+![Simon Says 03](assets/SimonSays-03.jpg)<br>
+3. Osadíme rezistor o hodnotě **330Ω** na místo R3
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-05.jpg)<br>
+![Simon Says 04](assets/SimonSays-04.jpg)<br>
+4. Osadíme rezistor o hodnotě **180Ω** na místo R4
+<hr>
+
+![Simon Says 05](assets/SimonSays-05.jpg)<br>
 5. Osadíme LEDky podle obrázku 
 !!! warning "Pozor na polaritu LED"
-    Seříznutí na LED musí odpovídat plošce na předkreslní tvaru diody na DPS
+    Seříznutí na LED musí odpovídat plošce na předkreslní tvaru diody na desce.
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-06.jpg)<br>
-6. Osadíme 5 tlačítek
+![Simon Says 06](assets/SimonSays-06.jpg)<br>
+6. Osadíme všech 5 tlačítek. 
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-07.jpg)<br>
-7. Osadíme 1 tranzistor <b>BC547B</b> (T1) <b>Je třeba dodržet orientaci dle naznačení na desce!</b>
+![Simon Says 07](assets/SimonSays-07.jpg)<br>
+7. Osadíme bzučák, tak aby **+** směřovalo **ven** (ke kraji) desky
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-08.jpg)<br>
-8. Osadíme 1 tranzistor <b>BC557B</b> (T2) <b>Opět je třeba dodržet otočení dle nákresu na desce!</b>
+![Simon Says 08](assets/SimonSays-08.jpg)<br>
+8. Osadíme kondenzátor
+!!! warning "Pozor na polaritu kondenzátoru"
+    Bílý pruh na kondenzátoru musí sedět s nákresem na desce.
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-09.jpg)<br>
-9. Osadíme 7 <b>červených LEDek</b> (LED1, LED2, LED3, LED4, LED5, LED6, LED7) <b>Je třeba dodržet otočení dle nákresu na desce!</b>
+![Simon Says 9](assets/SimonSays-09.jpg)<br>
+9. Osadíme čip ATTiny
+!!! warning "Dávejte si pozor na orientaci!"
+    Čip musí být otočený **přesně jak je to na obrázku**, jinak nebude fungovat a je riziko **zničení!**<br>
 <hr>
 
-![RoboSvit schéma](assets/Electronic_dice-10.jpg)<br>
-10. Osadíme <b>tlačítko</b> (S1)
-<hr>
-
-![RoboSvit schéma](assets/Electronic_dice-11.jpg)<br>
-11. Osadíme 2 <b>integrované obvody</b> (IC1, IC2) <b>Je třeba dodržet orientaci! Kolečko na pouzdře obvodu musí být v levém horním rohu na desce!</b> Pokud si nejste otočením jisti, zeptejte se raději lektora.
-<!-- ![RoboSvit schéma](assets/logic-28.jpg)<br>
-12. 
-<hr> -->
-
-<!-- ![RoboSvit schéma](assets/logic-29.jpg)<br>
-29. 
-<hr> -->
-<hr>
-
-![RoboSvit schéma](assets/Electronic_dice-12.jpg)<br>
-12. Připravíme si vteřinové lepidlo a podložku pod USB konektor
-<hr>
-
-![RoboSvit schéma](assets/Electronic_dice-13.jpg)<br>
-13. Podlepíme USB konektor podle fotky
-<hr>
-
-![RoboSvit schéma](assets/Electronic_dice-14.jpg)<br>
-14. Dokončená hrací kostka
-<hr>
-
-![RoboSvit schéma](assets/Electronic_dice-15.jpg)<br>
-15. Svítící hrací kostka zapojená v powerbance
+![Simon Says 10](assets/SimonSays-10.jpg)<br>
+10. Osadíme držák baterie
+!!! warning "Držák musíme dát z druhé strany!"
+    Držák se nevejde proto ho musíme dát z druhé strany!<br>
+    **Dejte si pozor na orientaci!**
 <hr>
