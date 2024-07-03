@@ -8,7 +8,7 @@ repo_name: RoboticsBrno/electronic-gadgets
 repo_url: https://github.com/RoboticsBrno/electronic-gadgets
 edit_uri: blob/main/docs/
 
-# Copyright
+dev_addr: "127.0.0.1:8002"
 copyright: Copyright © RoboticsBrno
 use_directory_urls: True
 
@@ -113,6 +113,9 @@ nav:
       - electronicDie/manual.md
   - Pájecí výzva:
       - https://smd-challenge.robotikabrno.cz/
+  - Smd kostka:
+      - smdKostka/README.md
+      - smdKostka/manual.md
   - Electron:
       - electron/README.md
       - electron/electron-lesson-1.md
@@ -121,5 +124,8 @@ nav:
   - Simon Says:
       - simonSays/README.md
       - simonSays/manual.md
+  - Šlusmetr:
+      - slusmetr/README.md
+      - slusmetr/manual.md
   # - Náš tým:
   #     - team/index.md
