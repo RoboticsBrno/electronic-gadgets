@@ -65,6 +65,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - macros
   - open-in-new-tab
   - glightbox:
       auto_caption: true
@@ -113,6 +114,7 @@ nav:
       - electronicDie/manual.md
   - Pájecí výzva:
       - https://smd-challenge.robotikabrno.cz/
+      - smdChallenge/README.md
   - Electron:
       - electron/README.md
       - electron/electron-lesson-1.md
