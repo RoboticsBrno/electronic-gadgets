@@ -46,6 +46,7 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.superfences
+  - pymdownx.extra
   - pymdownx.keys
   - admonition
   - pymdownx.details
@@ -65,6 +66,7 @@ markdown_extensions:
 
 plugins:
   - search
+  - macros
   - open-in-new-tab
   - glightbox:
       auto_caption: true
@@ -112,7 +114,10 @@ nav:
       - electronicDie/README.md
       - electronicDie/manual.md
   - Pájecí výzva:
-      - https://smd-challenge.robotikabrno.cz/
+      - https://smd-challenge.robotikabrno.cz
+  - Smd kostka:
+      - smdKostka/README.md
+      - smdKostka/manual.md
   - Electron:
       - electron/README.md
       - electron/electron-lesson-1.md
