@@ -116,6 +116,10 @@ nav:
   - Pájecí výzva:
       - https://smd-challenge.robotikabrno.cz
       - smdChallenge/
+      - smdChallenge/
+  - Smd kostka:
+      - smdKostka/README.md
+      - smdKostka/manual.md
   - Electron:
       - electron/README.md
       - electron/electron-lesson-1.md
