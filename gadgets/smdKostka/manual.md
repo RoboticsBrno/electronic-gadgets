@@ -37,7 +37,7 @@ Na desce musíme oškrábat nevodivou vrstvu z plošek, aby se naše tlačítko 
 <hr>
 
 ![Kostka krok 5](assets/final_front.jpg)<br>
-5. Připájíme čip ATTiny<br>
+5. Připájíme čip ATTiny. Tečka na čipu musí směřovat do **pravého dolního rohu desky**<br>
 !!! Pozor danger
     Pozor, když čip připájíte obráceně, nebude fungovat a riskujete zníčení čipu. Pokud si nejsi jistý, zeptej se lektora.
 <hr>
