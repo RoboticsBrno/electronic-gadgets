@@ -115,6 +115,10 @@ nav:
       - electronicDie/manual.md
   - Pájecí výzva:
       - https://smd-challenge.robotikabrno.cz
+      - smdChallenge/
+  - Smd kostka:
+      - smdKostka/README.md
+      - smdKostka/manual.md
   - Electron:
       - electron/README.md
       - electron/electron-lesson-1.md
