@@ -1,4 +1,4 @@
-# Manual
+# Manuál
 
 ## Potřebný materiál
 - Deska plošných spojů
