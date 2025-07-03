@@ -17,14 +17,18 @@
 
 ## Návod na složení
 1. Připravíme si desku pro hrací kostku<br>
+
     !!! Pozor danger
         Pozor, v bedně se nachází desky v1.1 a v1.2. Tento návod je pro verzi **v1.2**
+
     ![Deska hrací kostky](assets/Electronic_dice-01.jpg)<br>
     <hr>
 
 2. Osadíme 3 diody <b>1N4148</b> (D1, D2, D3)
+
     !!! Pozor danger
         **Pozor na polaritu!** Je třeba mít černý proužek na diodě na stejné straně, jako je naznačeno bílým proužkem na desce.<br>
+
     ![Přidání diod na desku](assets/Electronic_dice-02.jpg)<br>
     <hr>
 
@@ -45,20 +49,26 @@
     <hr>
 
 7. Osadíme 1 tranzistor <b>BC547B</b> (T1) 
+
     !!! Pozor danger
         Je třeba dodržet orientaci dle naznačení na desce!<br>
+
     ![Přidání trazistoru BC547B](assets/Electronic_dice-07.jpg)<br>
     <hr>
 
 8. Osadíme 1 tranzistor <b>BC557B</b> (T2) 
+
     !!! Pozor danger
-        Opět je třeba dodržet otočení dle nákresu na desce!</b><br>
+        Opět je třeba dodržet otočení dle nákresu na desce!
+
     ![Přidání tranzistoru BC557B](assets/Electronic_dice-08.jpg)<br>
     <hr>
 
 9. Osadíme 7 <b>červených LEDek</b> (LED1, LED2, LED3, LED4, LED5, LED6, LED7) <br>
+
     !!! Pozor danger 
         Je třeba dodržet otočení dle nákresu na desce!
+
     ![Přidání LED diod](assets/Electronic_dice-09.jpg)<br>
     <hr>
 
@@ -67,8 +77,10 @@
     <hr>
 
 11. Osadíme 2 integrované obvody (IC1, IC2) 
+
     !!! Pozor danger
-        Je třeba dodržet orientaci! Kolečko na pouzdře obvodu musí být v levém horním rohu na desce! Pokud si nejste otočením jisti, zeptejte   se raději lektora.<br>
+        Je třeba dodržet orientaci! Kolečko na pouzdře obvodu musí být v levém horním rohu na desce! Pokud si nejste otočením jisti, zeptejte se raději lektora.<br>
+
     ![Osazení integrovaných obvodů](assets/Electronic_dice-11.jpg)<br>
     <!-- ![RoboSvit schéma](assets/logic-28.jpg)<br>
     12. 
@@ -80,8 +92,10 @@
     <hr>
 
 12. Připravíme si vteřinové lepidlo a podložku pod USB konektor<br>
+
     !!! Pozor danger
         Lepidlo je silné, vždy lep na nějaké podložce
+
     ![Lepení podložky](assets/Electronic_dice-12.jpg)<br>
     <hr>
 
@@ -93,6 +107,6 @@
     ![Hotová hrací kostka](assets/Electronic_dice-14.jpg)<br>
     <hr>
 
-15. Svítící hrací kostka zapojená v powerbance<br>
+15. Svítící hrací kostka zapojená v powerbance. Hurá, jde se hrát!<br>
     ![Zapojení do powerbanky](assets/Electronic_dice-15.jpg)<br>
     <hr>
