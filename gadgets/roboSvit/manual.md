@@ -8,7 +8,7 @@
 - Baterie CR2032
 
 ## Návod na složení
-    1. Připravíme si potřebný materiál<br>
+1. Připravíme si potřebný materiál<br>
     ![RoboSvit materiál](assets/roboSvit-assembly/photo/roboSvit-assembly-01.jpg)<br>
     <hr>
 
