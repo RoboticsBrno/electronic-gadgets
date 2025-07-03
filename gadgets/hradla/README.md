@@ -64,3 +64,5 @@ V programovacích jazycích se obvykle označuje znakem `^` nebo `^^`.
 
 ## Terminologie
 Někdy se pojmy logický člen a hradlo rozlišují. Pojem hradlo pak označuje fyzickou součástku (např. integrovaný obvod), zatímco pod pojmem logický člen je myšlen prvek realizující logickou funkci.
+
+{{ manual_button() }}

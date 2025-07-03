@@ -5,7 +5,6 @@ BASE_PATH = "./"
 
 
 def define_env(env):
-
     @env.macro
     def generateTemplateImgNameList():
 
@@ -25,6 +24,10 @@ def define_env(env):
 
             except yaml.YAMLError as exc:
                 print(exc)
+
+    @env.macro
+    def manual_button():
+        return "[Přejít na manuál   :octicons-book-16:](manual.md){ .md-button }"
 
 
 def generatePageNameList(navYaml):

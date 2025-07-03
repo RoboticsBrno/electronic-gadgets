@@ -5,5 +5,7 @@ Ovládá se jedním tlačítkem na desce, kterým můžete zapnout losování č
 
 Tak směle házejte a nebojte se zahrát si spolu třeba kostky.
 
+{{ manual_button() }}
+
 ![RoboSvit schéma](assets/fancy/Electronic_dice-01.png)
 ![RoboSvit schéma](assets/fancy/Electronic_dice-02.png)
