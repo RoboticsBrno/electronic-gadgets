@@ -1,4 +1,4 @@
-# Návod
+# Manuál
 
 ## Potřebný materiál
 - Držák na baterku
