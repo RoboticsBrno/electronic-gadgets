@@ -79,6 +79,8 @@
 <hr>
 
 16. Držák kapkou lepidla přilepíme k překližce jako na obrázku<br>
+!!! Pozor danger
+    Při vkládání nezapomeň dát pozor na polaritu, zkontroluj, že postupuješ dle obrázku!
 ![Přilepení držáku na baterii](assets/roboSvit-assembly/photo/roboSvit-assembly-16.jpg)<br>
 <hr>
 
