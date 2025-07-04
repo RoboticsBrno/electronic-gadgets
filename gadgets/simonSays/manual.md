@@ -1,17 +1,20 @@
 # Návod
 
 ## Potřebný materiál
-- Deska plošných spojů
-- 1x rezistor 680 Ohm
-- 1x rezistor 220 Ohm
-- 1x rezistor 330 Ohm
-- 1x rezistor 180 Ohm
-- 1x každá barva LED (zelená, žlutá, oranžová a červená)
-- 5x tlačítko
-- 1x piezo bzučák
-- 1x kondenzátor 100uF
-- 1x integrovaný obvod
-- 1x držák baterie
+- 1 Deska plošných spojů
+- 1 rezistor 680 Ohm
+- 1 rezistor 220 Ohm
+- 1 rezistor 330 Ohm
+- 1 rezistor 180 Ohm
+- 1 zelená LEDka
+- 1 žlutá LEDka
+- 1 oranžová LEDka
+- 1 červená LEDka
+- 5 tlačítek
+- 1 piezo bzučák
+- 1 kondenzátor 100uF
+- 1 integrovaný obvod
+- 1 držák baterie
 
 ## Návod na složení
 1. Vezmeme desku plošných spojů<br>
