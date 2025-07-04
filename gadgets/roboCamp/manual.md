@@ -13,14 +13,18 @@
     <hr>
 
 2. Vložíme 2 LEDky podle znázornění na obrázku<br>
+
     !!! Pozor danger
         Je potřeba dát pozor na natočení LEDek - propouští proud pouze jedním směrem!
+
     ![Přidání prvních dvou ledek](assets/roboSvit-assembly/photo/roboSvit-assembly-02.jpg)<br>
     <hr>
 
 3. LEDku dotlačíme k překližce<br>
+
     !!! Pozor danger
         Mezi ledkou a překližkou nesmí zbýt žádný volný prostor!
+
     ![Zatlačení LEDek](assets/roboSvit-assembly/photo/roboSvit-assembly-03.jpg)<br>
     <hr>
 
@@ -29,8 +33,10 @@
     <hr>
 
 5. Vložíme a ohneme <b>vnější</b> nožičky všech ostatních LEDek<br>
+
     !!! Pozor danger
         Dotýkat se mezi sebou musí vždy nožičky reprezentující stejnou polaritu!
+
     ![Přidání dalších ledek](assets/roboSvit-assembly/photo/roboSvit-assembly-05.jpg)<br>
     <hr>
 
@@ -47,8 +53,10 @@
     <hr>
 
 9. Zapájíme vnitřní nožičky LEDek dohromady<br>
+
     !!! Pozor danger
         Při pájení si dej velký pozor, aby se byla oddělená horní skupina nožiček od dolní! Došlo by ke **zkratu**
+
     ![Zapájení vnitřních LEDek](assets/roboSvit-assembly/photo/roboSvit-assembly-09.jpg)<br>
     <hr>
 
@@ -65,8 +73,10 @@
     <hr>
 
 13. Ohneme <b>vnější</b> nožičku a připájíme k <b>vnitřní</b> skupině LEDek<br>
+
     !!! Pozor danger
         Opět si dáváme pozor na **zkrat**!
+
     ![Připájení vnějších diod k rezistoru](assets/roboSvit-assembly/photo/roboSvit-assembly-13.jpg)<br>
     <hr>
 
@@ -79,8 +89,10 @@
     <hr>
 
 16. Držák kapkou lepidla přilepíme k překližce jako na obrázku<br>
+
     !!! Pozor danger
         Při vkládání nezapomeň dát pozor na polaritu, zkontroluj, že postupuješ dle obrázku!
+
     ![Přilepení držáku na baterii](assets/roboSvit-assembly/photo/roboSvit-assembly-16.jpg)<br>
     <hr>
 
@@ -99,3 +111,5 @@
 20. Dokončený RoboCamp<br>
     ![Dokončený RoboCamp](assets/roboSvit-assembly/photo/roboSvit-assembly-20.jpg)<br>
     <hr>
+
+21. Veselé táboření!

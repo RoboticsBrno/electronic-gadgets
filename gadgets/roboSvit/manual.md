@@ -13,14 +13,18 @@
     <hr>
 
 2. Vložíme 2 LEDky podle znázornění na obrázku<br>
+
     !!! Pozor danger
         Dávej pozor pozor na orientaci ledek, propouští proud pouze jedním směrem!
+
     ![Vložení prních dvou ledek](assets/roboSvit-assembly/photo/roboSvit-assembly-02.jpg)<br>
     <hr>
 
 3. LEDku dotlačíme k překližce<br>
+
     !!! Pozor danger
         Mezi ledkou a překližkou nesmí být žádný volný prostor, jinak hrozí ulomení a zkrat!
+
     ![Přitlačení LEDek k překližce](assets/roboSvit-assembly/photo/roboSvit-assembly-03.jpg)<br>
     <hr>
 
@@ -29,14 +33,18 @@
     <hr>
 
 5. Vložíme a ohneme další nožičku LEDky<br>
+
     !!! Pozor danger
         Nezapomínáme na to, že je potřeba dodržet polaritu LEDek! Nově přidané LEDky musí mířit stejným směrem, jako ty "už umístěné".
+
     ![Vložení a ohyb třetí LEDky](assets/roboSvit-assembly/photo/roboSvit-assembly-05.jpg)<br>
     <hr>
 
 6. Proces opakujeme celkem sedmkrát<br>
+
     !!! Pozor danger
         V průběhu nezapomínáme na polarizaci!
+
     ![Vložení zbylých diod](assets/roboSvit-assembly/photo/roboSvit-assembly-06.jpg)<br>
     <hr>
 
@@ -57,8 +65,10 @@
     <hr>
 
 11. Zapájíme vnitřní kružnici<br>
+
     !!! Pozor danger
         Vnitřní a vnější kružnice nožiček se nikdy nesmí protnout! Jinak vznikne **zkrat**!
+
     ![Spájení vnítřní kružnice](assets/roboSvit-assembly/photo/roboSvit-assembly-11.jpg)<br>
     <hr>
 
@@ -67,8 +77,10 @@
     <hr>
 
 13. Držák přitiskneme pod drátky tak, aby se záporná polarita dotýkala vnitřního okruhu<br>
+
     !!! Pozor danger
         U držáku musíme dát pozor na polaritu!
+
     ![Přitisknutí držáku](assets/roboSvit-assembly/photo/roboSvit-assembly-13.jpg)<br>
     <hr>
 
@@ -81,8 +93,10 @@
     <hr>
 
 16. Připájíme rezistor k držáku baterií<br>
+
     !!! Pozor danger
         Rezistor připojujeme na druhou stranu, než jsme připájeli baterii k vnitřnímu kruhu nožiček LEDek
+
     ![Připájení rezistoru k baterii](assets/roboSvit-assembly/photo/roboSvit-assembly-16.jpg)<br>
     <hr>
 
@@ -91,8 +105,10 @@
     <hr>
 
 18. Připájíme rezistor ke vnější kružnici<br>
+
     !!! Pozor danger
         Při pájení musíme dát pozor na **zkrat**! Rezistor se nesmí dotýkat vnitřního kruhu nožiček
+        
     ![Připájení podruhé](assets/roboSvit-assembly/photo/roboSvit-assembly-18.jpg)<br>
     <hr>
 
