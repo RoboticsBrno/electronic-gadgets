@@ -12,38 +12,37 @@
 
 ## Návod na složení
 
-1. Začneme přípájením rezistorů
-
-    <span style="color:#ff6f00">●</span> 680Ω  
-    <span style="color:#ff0000">●</span> 330Ω  
-    ![Rezistory](assets/step_1_front.jpg)
-    <hr>
-
-2. Poté přípájíme ledky
-
-    !!! Pozor danger
-        Pozor, u ledek záleží na polaritě. Zelená tečka na ledce musí směřovat <span style="color:red">**ven**</span> (Prostřední ledka směřuje doleva). Koukni se na obrázek pokud si nejsi jistý.
-
-    ![LED diody](assets/step_2_front.jpg)
-    <hr>
-
-3. Připájíme čip ATTiny
-
-    !!! Pozor danger
-        Pozor, když čip připájíte obráceně, nebude fungovat a riskujete zníčení čipu. Pokud si nejsi jistý, zeptej se lektora.
-
-    ![Čip ATTiny](assets/step_6_front.jpg)
-    <hr>
-
-
-4. Nožem/skalpelem oškrábáme plošky
+1. Nožem/skalpelem oškrábáme plošky
 
     Na desce musíme oškrábat nevodivou vrstvu z plošek, aby se naše tlačítko lépe pájelo
     
     !!! Pozor danger
         Pozor, nůž je ostrý, tak ať se neříznete.
 
-    ![Oškrabání plošek](assets/step_3_front.jpg)
+    ![Oškrabání plošek](assets/step_1_front.jpg)
+    <hr>
+
+2. Začneme přípájením rezistorů
+
+    <span style="color:#ff6f00">●</span> 680Ω  
+    <span style="color:#ff0000">●</span> 330Ω  
+    ![Rezistory](assets/step_2_front.jpg)
+    <hr>
+
+3. Poté přípájíme ledky
+
+    !!! Pozor danger
+        Pozor, u ledek záleží na polaritě. Zelená tečka na ledce musí směřovat <span style="color:red">**ven**</span> (Prostřední ledka směřuje doleva). Koukni se na obrázek pokud si nejsi jistý.
+
+    ![LED diody](assets/step_3_front.jpg)
+    <hr>
+
+4. Připájíme čip ATTiny
+
+    !!! Pozor danger
+        Pozor, když čip připájíte obráceně, nebude fungovat a riskujete zníčení čipu. Pokud si nejsi jistý, zeptej se lektora.
+
+    ![Čip ATTiny](assets/step_4_front.jpg)
     <hr>
 
 5. Připájíme tlačítko
