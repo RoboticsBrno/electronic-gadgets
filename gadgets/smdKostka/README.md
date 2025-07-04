@@ -1,6 +1,6 @@
 # O co jde?
 
-SMD kostka je težší a menší verze [Hrací kostky](/electronicDie). Používá jen SMD součástky a používá programovatelný čip ATTiny.
+SMD kostka je menší verze [Hrací kostky](/electronicDie). Používá jen SMD součástky a používá programovatelný čip ATTiny.
 
 {{ manual_button() }}
 

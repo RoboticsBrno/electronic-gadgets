@@ -1,7 +1,7 @@
-# Manuál
+# Manuál - v1.2
 
 ## Potřebný materiál
-- Deska plošných spojů
+- 1 Deska plošných spojů v1.2
 - 3 Diody 1N4148
 - 3 rezistory 10kΩ
 - 3 rezistory 4.7MΩ
@@ -10,16 +10,14 @@
 - 1 tranzistor BC547B
 - 1 tranzistor BC557B
 - 7 LED
-- tlačítko
-- 2 integrované obvody (CD4029N a NE555N)
-- podložku pod USB konektor
+- 1 tlačítko
+- 1 integrovaný obvod CD4029N
+- 1 integrovaný obvod NE555N
+- 1 podložka pod USB konektor
 
 
 ## Návod na složení
 1. Připravíme si desku pro hrací kostku<br>
-
-    !!! Pozor danger
-        Pozor, v bedně se nachází desky v1.1 a v1.2. Tento návod je pro verzi **v1.2**
 
     ![Deska hrací kostky](assets/Electronic_dice-01.jpg)<br>
     <hr>
@@ -94,7 +92,7 @@
 12. Připravíme si vteřinové lepidlo a podložku pod USB konektor<br>
 
     !!! Pozor danger
-        Lepidlo je silné, vždy lep na nějaké podložce
+        Vždy lep na nějaké podložce, ať nepoškodíte stolu nebo jinému povrchu. Lepidlo je velmi silné a po zaschnutí se špatně odstraňuje
 
     ![Lepení podložky](assets/Electronic_dice-12.jpg)<br>
     <hr>
