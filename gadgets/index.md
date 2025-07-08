@@ -1,6 +1,6 @@
 # Gadgets
 
-List of our gadgets...
+Všechny naše gadgety:
 
 {% set imgNameList = generateTemplateImgNameList() %}
 {% set printEnd = false %}
